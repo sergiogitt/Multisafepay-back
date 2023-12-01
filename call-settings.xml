@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<status ua="custom-1.1">
+    <merchant>
+        <account>1001001</account>
+        <site_id>13431</site_id>
+        <site_secure_code>965105</site_secure_code>
+    </merchant>
+    <transaction>
+        <id>apitool_sergio_romero_3</id>
+    </transaction>
+</status>
